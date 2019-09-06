@@ -1,0 +1,17 @@
+Do all your work on your branch and then we will merge everything we want on the master branch.
+
+DK: Lead Designer - Work mostly on css and make sure everything looks nice and has a proper layout. Also will help with content and placeholders, and javascript work.
+
+Sebas: Lead Developer - Work mostly on html and the structure of the page, as well as javascript functionality. Create each page and make sure they have a consistent matching layout/style.
+
+This file will be used for notes and for thing to keep in mind while working on the project.
+
+---
+
+To-do:
+- Create all pages for the business.
+- Come up with a color theme.
+- Find placeholder images/text to use for content.
+- Come up with a consistent layout/style.
+- Create matching navbar and footer for each page.
+- Import and learn how to use the frameworks/libraries.
